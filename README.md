@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary>🧮 Stay in Yogyakarta University
+  <summary>🧮 Stay in Yogyakarta City
   </summary>
 <div>
 <samp>
