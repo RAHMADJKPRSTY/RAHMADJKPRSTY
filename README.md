@@ -78,7 +78,7 @@
 </details>
   
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 RAHMADJKPRSTY/GitHub.com </summary>
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
@@ -113,7 +113,7 @@
 </details>
 
 <details>
-  <summary>📈 Latest Activity Graph</summary>
+  <summary>📈 Soon </summary>
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
@@ -124,7 +124,7 @@
   </details>
   
 <details>
-  <summary>🌏 global</summary>
+  <summary>🌏 rahmadjakpraz.blogspot.com</summary>
   <br/>
   <details open>
   <summary>👷‍♂️ create your own custom badge</summary>
