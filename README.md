@@ -11,7 +11,7 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ contact me 085869127957</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -44,7 +44,8 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 Stay in Yogyakarta University
+  </summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
